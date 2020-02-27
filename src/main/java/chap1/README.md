@@ -64,3 +64,21 @@ X-oriented
 * OOP : SOLID, DRY ...
 * Reactive
 * Functional
+
+## Abstraction
+역할 모델을 이해하기 위해선 추상화를 이해해야함
+
+* Generalization: 일반화 - modeling, function, algorithm
+* Association: 연관화 - reference, dependence
+* Aggregation: 집단화 - group, category
+
+IT 용어 사전에서는
+* Data Abstraction
+    - Modeling (현실 세계의 대상에서 필요하고 기억해야만 하는 것만 모델링한 것)
+    - Categorization (카테고리에 따라서 속성이 다를 수 있음)
+    - Grouping
+* Procedural Abstraction: 데이터의 처리 방법을 함수에게 위임한 것 (순차적 X)
+    - Generalization (공통점을 찾아 일반화, 복잡한 세계에서 공통점을 찾아야하는 문제)
+    - Capsulization (복잡성을 감추고 추상화된 인터페이스로 표현, 복잡성을 노출하면 사용자에게 지식을 요구함)
+* OOP Abstraction
+...
